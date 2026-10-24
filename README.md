@@ -11,22 +11,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zhihan-iris/literature-reading">Reading</a>
+  <a href="#about">关于我</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/Zhihan-iris/causal-inference">Research</a>
+  <a href="#projects">我的作品</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/Zhihan-iris/learning-websites">Little projects</a>
+  <a href="#lately">最近在做</a>
 </p>
 
 <br />
 
-### A little about me
+<a name="about"></a>
 
-你好，我是 **Zhihan**。欢迎来到我的小小学习角落。
+### About · 关于我
 
-这里放着我的文献阅读、因果推断学习，以及慢慢做出来的小项目。喜欢把复杂的问题拆开理解，再把零散的想法整理成可以回看的记录。
+你好，我是 **Zhihan**。在这里分享经济学文献阅读、因果推断笔记，以及为学习做的小工具。
 
-> A place for questions, notes, and small discoveries.
+喜欢追问“为什么”，也喜欢把想明白的事情留下来。
 
 <p>
   <picture>
@@ -49,41 +49,58 @@
 
 <br />
 
-### On my desk
+<a name="projects"></a>
+
+### Projects · 我的作品
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://zhihan-iris.github.io/literature-reading/">
         <img src="./card-reading.png" width="100%" alt="Reading notes — 文献阅读手记" />
       </a>
       <h3>文献阅读手记</h3>
-      <p>经济学论文、阅读讲义，以及从问题走向复现的记录。</p>
-      <a href="https://zhihan-iris.github.io/literature-reading/">翻开笔记 ↗</a>
-      &nbsp; · &nbsp;
-      <a href="https://github.com/Zhihan-iris/literature-reading">仓库</a>
+      <p>从论文中的一个问题，读到模型、证据与复现。</p>
+      <p>
+        <a href="https://zhihan-iris.github.io/literature-reading/">翻开笔记 ↗</a>
+        &nbsp; · &nbsp;
+        <a href="https://github.com/Zhihan-iris/literature-reading">查看仓库</a>
+      </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://zhihan-iris.github.io/causal-inference/">
         <img src="./card-causal.png" width="100%" alt="Causal inference — 因果推断学习室" />
       </a>
       <h3>因果推断学习室</h3>
-      <p>从潜在结果到 DID、IV 与 RD，用中文讲义和互动实验理解识别。</p>
-      <a href="https://zhihan-iris.github.io/causal-inference/">进入学习室 ↗</a>
-      &nbsp; · &nbsp;
-      <a href="https://github.com/Zhihan-iris/causal-inference">仓库</a>
+      <p>先建立直觉，再用中文讲义与互动实验理解因果识别。</p>
+      <p>
+        <a href="https://zhihan-iris.github.io/causal-inference/">进入学习室 ↗</a>
+        &nbsp; · &nbsp;
+        <a href="https://github.com/Zhihan-iris/causal-inference">查看仓库</a>
+      </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <td width="36%" valign="middle">
       <a href="https://zhihan-iris.github.io/learning-websites/econometrics/">
         <img src="./card-tools.png" width="100%" alt="Little learning tools — 学习与小工具" />
       </a>
+    </td>
+    <td width="64%" valign="middle">
       <h3>学习与小工具</h3>
-      <p>把计量经济学、英语听力和写作，做成可以动手练习的网页。</p>
-      <a href="https://zhihan-iris.github.io/learning-websites/econometrics/">计量 ↗</a>
-      &nbsp; · &nbsp;
-      <a href="https://zhihan-iris.github.io/learning-websites/listening/">听力 ↗</a>
-      &nbsp; · &nbsp;
-      <a href="https://zhihan-iris.github.io/learning-websites/writing/">写作 ↗</a>
+      <p>把计量、听力和写作，变成每天能动手做一点的小练习。</p>
+      <p>
+        <a href="https://zhihan-iris.github.io/learning-websites/econometrics/">计量 ↗</a>
+        &nbsp; · &nbsp;
+        <a href="https://zhihan-iris.github.io/learning-websites/listening/">听力 ↗</a>
+        &nbsp; · &nbsp;
+        <a href="https://zhihan-iris.github.io/learning-websites/writing/">写作 ↗</a>
+      </p>
       <p><a href="https://github.com/Zhihan-iris/learning-websites">查看仓库</a></p>
     </td>
   </tr>
@@ -91,13 +108,13 @@
 
 <br />
 
+<a name="lately"></a>
+
 ### Lately · 最近在做
 
-- **文献与复现**：整理[远程办公与城市结构](https://github.com/Zhihan-iris/literature-reading/tree/main/remote-work-city-structure)、[能源监管与企业集团](https://github.com/Zhihan-iris/literature-reading/tree/main/Regulating-Conglomerates)等论文的阅读和复现材料。
-- **方法与直觉**：用[中文讲义与互动实验](https://zhihan-iris.github.io/causal-inference/)梳理因果推断，把假设、公式和例子串起来。
-- **学习与实践**：把计量、听力和写作练习做成[小工具](https://github.com/Zhihan-iris/learning-websites)，让学习过程留下可回看的记录。
-
-<sub>一点点阅读，一点点实践，也一点点把这里整理得更好。</sub>
+- **读论文** — [远程办公与城市结构](https://github.com/Zhihan-iris/literature-reading/tree/main/remote-work-city-structure)、[能源监管与企业集团](https://github.com/Zhihan-iris/literature-reading/tree/main/Regulating-Conglomerates)。
+- **理方法** — 把因果推断中的假设、公式和例子串起来。
+- **做练习** — 完善计量与英语学习中的交互和反馈。
 
 <br />
 
