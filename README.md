@@ -62,7 +62,9 @@
 
 <br />
 
-<p align="center">𓂃 &nbsp; 🍓 &nbsp; 𓂃</p>
+<p align="center">
+  <img src="./strawberry-divider.gif" width="420" alt="A tiny floating strawberry with softly twinkling stars." />
+</p>
 <p align="center">
   <i>A soft little corner for a curious mind.</i><br />
   <sub>谢谢你来这里看看，愿你今天也有一点小小的发现。</sub>
