@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./persian-cat-banner.png" width="100%" alt="Hi, I'm Zhihan. A fluffy white Persian cat and two tiny strawberries on a soft ivory watercolor background." />
+  <img src="./persian-cat-banner-animated.gif" width="100%" alt="Hi, I'm Zhihan. A gently blinking fluffy white Persian cat and two tiny strawberries on a soft ivory watercolor background." />
 </p>
 
 <p align="center">
