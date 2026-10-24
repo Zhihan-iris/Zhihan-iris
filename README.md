@@ -28,40 +28,64 @@
 
 > A place for questions, notes, and small discoveries.
 
+<p>
+  <img src="./badge-stata.png" height="28" alt="Stata" />
+  <img src="./badge-python.png" height="28" alt="Python" />
+  <img src="./badge-econometrics.png" height="28" alt="Econometrics" />
+  <img src="./badge-causal-inference.png" height="28" alt="Causal inference" />
+</p>
+
 <br />
 
 ### On my desk
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <sub>01 &nbsp; / &nbsp; READING NOTES</sub>
-      <h3><a href="https://github.com/Zhihan-iris/literature-reading">文献阅读手记</a></h3>
-      <p>读过的文章，留下的问题，以及一点点积累的理解。</p>
-      <a href="https://github.com/Zhihan-iris/literature-reading">Open the notebook ↗</a>
+    <td width="33%" valign="top">
+      <a href="https://zhihan-iris.github.io/literature-reading/">
+        <img src="./card-reading.png" width="100%" alt="Reading notes — 文献阅读手记" />
+      </a>
+      <h3>文献阅读手记</h3>
+      <p>经济学论文、阅读讲义，以及从问题走向复现的记录。</p>
+      <a href="https://zhihan-iris.github.io/literature-reading/">翻开笔记 ↗</a>
+      &nbsp; · &nbsp;
+      <a href="https://github.com/Zhihan-iris/literature-reading">仓库</a>
     </td>
-    <td width="50%" valign="top">
-      <sub>02 &nbsp; / &nbsp; CAUSAL INFERENCE</sub>
-      <h3><a href="https://github.com/Zhihan-iris/causal-inference">因果推断学习</a></h3>
-      <p>从“有没有关系”，继续追问“为什么”和“如何识别”。</p>
-      <a href="https://github.com/Zhihan-iris/causal-inference">Follow the questions ↗</a>
+    <td width="33%" valign="top">
+      <a href="https://zhihan-iris.github.io/causal-inference/">
+        <img src="./card-causal.png" width="100%" alt="Causal inference — 因果推断学习室" />
+      </a>
+      <h3>因果推断学习室</h3>
+      <p>从潜在结果到 DID、IV 与 RD，用中文讲义和互动实验理解识别。</p>
+      <a href="https://zhihan-iris.github.io/causal-inference/">进入学习室 ↗</a>
+      &nbsp; · &nbsp;
+      <a href="https://github.com/Zhihan-iris/causal-inference">仓库</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://zhihan-iris.github.io/learning-websites/econometrics/">
+        <img src="./card-tools.png" width="100%" alt="Little learning tools — 学习与小工具" />
+      </a>
+      <h3>学习与小工具</h3>
+      <p>把计量经济学、英语听力和写作，做成可以动手练习的网页。</p>
+      <a href="https://zhihan-iris.github.io/learning-websites/econometrics/">计量 ↗</a>
+      &nbsp; · &nbsp;
+      <a href="https://zhihan-iris.github.io/learning-websites/listening/">听力 ↗</a>
+      &nbsp; · &nbsp;
+      <a href="https://zhihan-iris.github.io/learning-websites/writing/">写作 ↗</a>
+      <p><a href="https://github.com/Zhihan-iris/learning-websites">查看仓库</a></p>
     </td>
   </tr>
 </table>
 
-<p>
-  <sub>03 &nbsp; / &nbsp; LITTLE PROJECTS</sub><br />
-  <b><a href="https://github.com/Zhihan-iris/learning-websites">学习与小工具</a></b>
-  &nbsp; — &nbsp; 把学习中的小想法，做成可以打开的小作品。
-</p>
-
 <br />
 
-### Currently exploring
+### Lately · 最近在做
 
-**Econometrics** &nbsp; · &nbsp; **Causal inference** &nbsp; · &nbsp; **Reproducible research**
+- **文献与复现**：整理[远程办公与城市结构](https://github.com/Zhihan-iris/literature-reading/tree/main/remote-work-city-structure)、[能源监管与企业集团](https://github.com/Zhihan-iris/literature-reading/tree/main/Regulating-Conglomerates)等论文的阅读和复现材料。
+- **方法与直觉**：用[中文讲义与互动实验](https://zhihan-iris.github.io/causal-inference/)梳理因果推断，把假设、公式和例子串起来。
+- **学习与实践**：把计量、听力和写作练习做成[小工具](https://github.com/Zhihan-iris/learning-websites)，让学习过程留下可回看的记录。
 
-用 Stata 和 Python 学习、实践，也认真对待每一个“为什么”。
+<sub>一点点阅读，一点点实践，也一点点把这里整理得更好。</sub>
 
 <br />
 
