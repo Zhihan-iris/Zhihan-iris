@@ -29,10 +29,22 @@
 > A place for questions, notes, and small discoveries.
 
 <p>
-  <img src="./badge-stata.png" height="28" alt="Stata" />
-  <img src="./badge-python.png" height="28" alt="Python" />
-  <img src="./badge-econometrics.png" height="28" alt="Econometrics" />
-  <img src="./badge-causal-inference.png" height="28" alt="Causal inference" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./badge-stata-dark.gif" />
+    <img src="./badge-stata-light.gif" height="28" alt="Stata" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./badge-python-dark.gif" />
+    <img src="./badge-python-light.gif" height="28" alt="Python" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./badge-econometrics-dark.gif" />
+    <img src="./badge-econometrics-light.gif" height="28" alt="Econometrics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./badge-causal-inference-dark.gif" />
+    <img src="./badge-causal-inference-light.gif" height="28" alt="Causal inference" />
+  </picture>
 </p>
 
 <br />
