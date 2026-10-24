@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./persian-cat-banner-animated.gif" width="100%" alt="Hi, I'm Zhihan. A gently blinking fluffy white Persian cat and two tiny strawberries on a soft ivory watercolor background." />
+  <img src="./assets/banners/persian-cat-banner-animated.gif" width="100%" alt="Hi, I'm Zhihan. A gently blinking fluffy white Persian cat and two tiny strawberries on a soft ivory watercolor background." />
 </p>
 
 <p align="center">
   <b>在阅读里积累，在问题里生长。</b><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./reading-typewriter-dark.gif" />
-    <img src="./reading-typewriter-light.gif" width="380" alt="Reading thoughtfully. Learning patiently. Making little things." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/animations/reading-typewriter-dark.gif" />
+    <img src="./assets/animations/reading-typewriter-light.gif" width="380" alt="Reading thoughtfully. Learning patiently. Making little things." />
   </picture>
 </p>
 
@@ -16,6 +16,8 @@
   <a href="#projects">我的作品</a>
   &nbsp; · &nbsp;
   <a href="#lately">最近在做</a>
+  &nbsp; · &nbsp;
+  <a href="./REPOSITORIES.md">仓库导航</a>
 </p>
 
 <br />
@@ -30,20 +32,20 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./badge-stata-dark.gif" />
-    <img src="./badge-stata-light.gif" height="28" alt="Stata" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/badge-stata-dark.gif" />
+    <img src="./assets/badges/badge-stata-light.gif" height="28" alt="Stata" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./badge-python-dark.gif" />
-    <img src="./badge-python-light.gif" height="28" alt="Python" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/badge-python-dark.gif" />
+    <img src="./assets/badges/badge-python-light.gif" height="28" alt="Python" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./badge-econometrics-dark.gif" />
-    <img src="./badge-econometrics-light.gif" height="28" alt="Econometrics" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/badge-econometrics-dark.gif" />
+    <img src="./assets/badges/badge-econometrics-light.gif" height="28" alt="Econometrics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./badge-causal-inference-dark.gif" />
-    <img src="./badge-causal-inference-light.gif" height="28" alt="Causal inference" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/badge-causal-inference-dark.gif" />
+    <img src="./assets/badges/badge-causal-inference-light.gif" height="28" alt="Causal inference" />
   </picture>
 </p>
 
@@ -57,7 +59,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://zhihan-iris.github.io/literature-reading/">
-        <img src="./card-reading.png" width="100%" alt="Reading notes — 文献阅读手记" />
+        <img src="./assets/cards/card-reading.png" width="100%" alt="Reading notes — 文献阅读手记" />
       </a>
       <h3>文献阅读手记</h3>
       <p>从论文中的一个问题，读到模型、证据与复现。</p>
@@ -69,7 +71,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://zhihan-iris.github.io/causal-inference/">
-        <img src="./card-causal.png" width="100%" alt="Causal inference — 因果推断学习室" />
+        <img src="./assets/cards/card-causal.png" width="100%" alt="Causal inference — 因果推断学习室" />
       </a>
       <h3>因果推断学习室</h3>
       <p>先建立直觉，再用中文讲义与互动实验理解因果识别。</p>
@@ -88,7 +90,7 @@
   <tr>
     <td width="36%" valign="middle">
       <a href="https://zhihan-iris.github.io/learning-websites/econometrics/">
-        <img src="./card-tools.png" width="100%" alt="Little learning tools — 学习与小工具" />
+        <img src="./assets/cards/card-tools.png" width="100%" alt="Little learning tools — 学习与小工具" />
       </a>
     </td>
     <td width="64%" valign="middle">
@@ -119,7 +121,7 @@
 <br />
 
 <p align="center">
-  <img src="./strawberry-divider.gif" width="420" alt="A tiny floating strawberry with softly twinkling stars." />
+  <img src="./assets/decorations/strawberry-divider.gif" width="420" alt="A tiny floating strawberry with softly twinkling stars." />
 </p>
 <p align="center">
   <i>A soft little corner for a curious mind.</i><br />
