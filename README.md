@@ -4,7 +4,10 @@
 
 <p align="center">
   <b>在阅读里积累，在问题里生长。</b><br />
-  <sub>Reading thoughtfully. Learning patiently. Making little things.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./reading-typewriter-dark.gif" />
+    <img src="./reading-typewriter-light.gif" width="380" alt="Reading thoughtfully. Learning patiently. Making little things." />
+  </picture>
 </p>
 
 <p align="center">
